@@ -1,0 +1,4 @@
+▁HE Y :1 #0.0001 @HEY
+▁E CH O :1 #0.0001 @ECHO
+▁A CH O :1 #0.0001 @ACHO
+▁C HE CK :1 #0.0001 @CHECK
